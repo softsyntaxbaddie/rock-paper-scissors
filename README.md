@@ -1,5 +1,3 @@
-
-
 ##Rock, Paper, Scissors Game
 
 
