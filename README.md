@@ -1,4 +1,4 @@
-##Rock, Paper, Scissors Game
+#Rock, Paper, Scissors Game
 
 
 A simple and interactive Python game where you play Rock, Paper, Scissors against the computer.
