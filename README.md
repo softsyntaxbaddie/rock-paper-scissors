@@ -2,6 +2,7 @@
 
 ##Rock, Paper, Scissors Game
 
+
 A simple and interactive Python game where you play Rock, Paper, Scissors against the computer.
 Track your score and see if you can beat the computer.
 
